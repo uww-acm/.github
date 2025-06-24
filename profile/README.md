@@ -1,6 +1,6 @@
 <html>
     <div>
-        <h1>🖥️ Welcome to the ACM GitHub! 🖥️</h1>
+        <h1>🖥️ Welcome to the UW-W ACM GitHub! 🖥️</h1>
         <h2>❓ Who are we? ❓</h2>
         <p>The <b>Association for Computing Machinery</b> is the Worlds Largest Scientific and Educational Computing Society!</p>
         <p>We are one of the few ACM Student Chapters based in Wisconsin, with an active community of people with an interest in computing!</p>
