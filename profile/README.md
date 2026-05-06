@@ -18,7 +18,7 @@
         <h2>👋 How can I join? 👋</h2>
         <p>-- You can join us at any time, it's completely free too! --<br><br>We have an active discord server open to anyone, and our meeting times and contacts can be found below:</p>
             <div align="center">
-                <p><b>Monday and Friday, 6pm-7pm @ McGraw Hall 122</b></p>
+                <p><b>Wednesday 6pm-7pm @ McGraw Hall 122</b></p>
                     <p><b>Social Links:</b>
                       <a href="https://discord.gg/gT48XJHKnC" target="_blank">Discord</a> |
                       <a href="https://www.instagram.com/uwwacm?utm_source=ig_web_button_share_sheet&amp;igsh=ZDNlZDc0MzIxNw==" target="_blank">Instagram</a> |
